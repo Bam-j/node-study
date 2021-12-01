@@ -1,0 +1,19 @@
+{
+  "name": "node-study",
+  "version": "0.0.1",
+  "description": "node study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bam-j/node-study.git"
+  },
+  "author": "Bam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bam-j/node-study/issues"
+  },
+  "homepage": "https://github.com/Bam-j/node-study#readme"
+}
