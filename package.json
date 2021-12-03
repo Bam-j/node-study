@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Bam-j/node-study/issues"
   },
-  "homepage": "https://github.com/Bam-j/node-study#readme"
+  "homepage": "https://github.com/Bam-j/node-study#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
