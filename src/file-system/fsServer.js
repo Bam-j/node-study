@@ -1,5 +1,5 @@
 const http = require('http');
-const fs = require('src/fsPrac').promises;
+const fs = require('src/file-system/fsPrac').promises;
 
 http.createServer(async (req, res) => {
     try {

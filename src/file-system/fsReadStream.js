@@ -1,5 +1,5 @@
-const fs = require('src/fsPrac');
-const readStream = fs.createReadStream('./src/hello.txt', {highWaterMark: 4});
+const fs = require('fs');
+const readStream = fs.createReadStream('./src/file-system/hello.txt', {highWaterMark: 4});
 const data = [];
 
 readStream.on('data', chunk => {

@@ -1,6 +1,6 @@
-const fsPrac = require('src/fsPrac').promises;
+const fs = require('fs').promises;
 
-fsPrac.readFile('./src/hello.txt')
+fs.readFile('./src/file-system/hello.txt')
 .then(data => {
     console.log(data.toString());
 })
