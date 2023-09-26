@@ -35,6 +35,9 @@ Node.js를 공부하고있습니다. <br/>
 5-1. [Koa 소개](https://velog.io/@bami/Node.jsKoa-Koa-%EC%9B%B9-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC) <br/>
 5-2. [Koa 미들웨어](https://velog.io/@bami/Node.jsKoa-Koa-%EB%AF%B8%EB%93%A4%EC%9B%A8%EC%96%B4) <br/>
 5-3. [koa-router](https://velog.io/@bami/Node.jsKoa-koa-router) <br/>
+
+## 6. Sequelize
+6-1. [Sequlize](https://velog.io/@bami/Node.js-Sequelize-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC) <br/>
 ---
 
 - [Node.js 카테고리로 이동](https://velog.io/@bami/series/Node.js)
